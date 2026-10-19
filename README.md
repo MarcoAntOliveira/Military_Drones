@@ -45,7 +45,7 @@ colcon build
 | Component | Version |
 |-----------|----------|
 | OS | Ubuntu 24.04 LTS |
-| ROS 2 | [Jazzyl](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html) |
+| ROS 2 | [Jazzy](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html) |
 | Gazebo | [Harmonic (8.10.0)](https://gazebosim.org/docs/latest/ros_installation/#gazebo-harmonic-with-ros-2-humble) |
 | Python | 3.10.x |
 
@@ -99,7 +99,7 @@ sudo apt install -y python3-colcon-common-extensions
 
 ## 4. Gazebo Harmonic Configuration
 
-ROS 2 Humble does not default to Gazebo Harmonic.
+ROS 2 Jazzy does not default to Gazebo Harmonic.
 
 Ensure Gazebo Harmonic is installed.
 
