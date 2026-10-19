@@ -44,8 +44,8 @@ colcon build
 
 | Component | Version |
 |-----------|----------|
-| OS | Ubuntu 22.04 LTS |
-| ROS 2 | [Humble Hawksbill](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html) |
+| OS | Ubuntu 24.04 LTS |
+| ROS 2 | [Jazzyl](https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debs.html) |
 | Gazebo | [Harmonic (8.10.0)](https://gazebosim.org/docs/latest/ros_installation/#gazebo-harmonic-with-ros-2-humble) |
 | Python | 3.10.x |
 
